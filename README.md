@@ -12,34 +12,14 @@ Welcome to my GitHub profile! I'm passionate about software development, artific
 
 ---
 
-## 📚 Featured Repositories
+## 🏆 Competitions
 
-### 1. [Kyra-Custom-GPTs-Platform](https://github.com/Tanwyhang/Kyra-Custom-GPTs-Platform)
-A TypeScript-heavy platform with PLpgSQL backend, enabling custom GPT experiences. Focused on extensibility and robust backend logic.
-
-### 2. [Computer-Science-Notes](https://github.com/Tanwyhang/Computer-Science-Notes)
-Comprehensive notes on databases: SQL, normalization, indexing, ER diagrams, with practical examples & query optimization tips. Ideal for students and developers.
-
-### 3. [OOP-Assignment](https://github.com/Tanwyhang/OOP-Assignment)
-A Java collaboration space for object-oriented programming assignments and projects.
-
-### 4. [SOLARIS](https://github.com/Tanwyhang/SOLARIS)
-A modern Python desktop application for academic performance tracking, including a visual GPA calculator. Built with CustomTkinter for a sleek, dark UI.
-
-### 5. [Hyperbyte-AI](https://github.com/Tanwyhang/Hyperbyte-AI)
-Repository for innovative AI competition projects, exploring creative solutions and machine learning.
-
-### 6. [Software-Design-Fundamentals-Python-Notes-](https://github.com/Tanwyhang/Software-Design-Fundamentals-Python-Notes-)
-Notes and resources focused on software design fundamentals using Python.
-
-### 7. [Shroom-Fast-Paced-RPG](https://github.com/Tanwyhang/Shroom-Fast-Paced-RPG)
-A Python side-scrolling shooter game where players battle mushroom creatures and collect celestial powers.
-
-### 8. [Zendoro](https://github.com/Tanwyhang/Zendoro)
-A productivity tool built entirely in TypeScript, aiming to enhance workflow and focus.
-
-### 9. [CAS](https://github.com/Tanwyhang/CAS)
-A multi-language (TypeScript, Python, JavaScript) project showcasing versatility in web and backend development.
+- **NAIC** (National AI Challenge)
+- **Worldquant IQC** (International Quant Championship)
+- **Codenection 2024**
+- **MCC 2021** (Microsoft Coding Competition)
+- **Bolt.new Hackathon 2025**
+- **WSMB Internet of Things Category 2025**
 
 ---
 
