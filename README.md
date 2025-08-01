@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm passionate about software development, artific
 
 ## 🚀 About Me
 
-- **Interests:** Fullstack development, AI, academic tools, notes sharing, desktop apps, game development, and backend systems.
+- **Interests:** Fullstack development, AI, academic tools, notes sharing, desktop apps, game development, backend systems.
 - **Languages:** Python, TypeScript, Java, SQL, PLpgSQL, CSS, JavaScript, C++ and GDScript.
-- **Stacks:** React Native, NodeJS, FASTAPI, Supabase, Firebase, Mermaid Data Modelling, Pandas, Numpy, Tailwind CSS
+- **Stacks:** React Native, NodeJS, FASTAPI, Supabase, Firebase, Mermaid Data Modelling, Pandas, Numpy, Tailwind CSS, n8n Automation Workflow, NodeRED + MQTT, Matplotlib/Seaborn
 - **Focus:** Practical implementations, learning resources, and collaborative development.
 - **Extra Skills:** Adobe Photoshop,Premiere Pro, After Effects, Blender3, TouchDesigner Derivatives
 ---
