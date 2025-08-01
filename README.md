@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm passionate about software development, artific
 
 ## 🚀 About Me
 
-- **💡 Interests:** AI, academic tools, notes sharing, desktop apps, game development, and backend systems.
-- **🛠️ Languages:** Python, TypeScript, Java, SQL, PLpgSQL, CSS, and JavaScript.
+- **💡 Interests:** Fullstack development, AI, academic tools, notes sharing, desktop apps, game development, and backend systems.
+- **🛠️ Languages:** Python, TypeScript, Java, SQL, PLpgSQL, CSS, JavaScript, C++ and GDScript.
 - **🎓 Focus:** Practical implementations, learning resources, and collaborative development.
 
 ---
