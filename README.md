@@ -1,10 +1,10 @@
-# 👋 Hi there! I'm Tanwyhang
+# Hi there! I'm Tanwyhang
 
 Welcome to my GitHub profile! I'm passionate about software development, artificial intelligence, academic tools, and sharing knowledge. My repositories reflect a journey through collaborative assignments, innovative projects, and detailed study notes. Here’s a little about me and what you’ll find across my GitHub:
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - **Interests:** Fullstack development, AI, academic tools, notes sharing, desktop apps, game development, backend systems.
 - **Languages:** Python, TypeScript, Java, SQL, PLpgSQL, CSS, JavaScript, C++ and GDScript.
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about software development, artific
 
 ---
 
-## 🤝 Collaboration & Learning
+## Collaboration & Learning
 
 - **Team Projects:** Enjoys working with others, sharing knowledge, and building innovative solutions.
 - **Open Source:** Welcomes contributions, feedback, and collaboration.
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about software development, artific
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - **GitHub:** [Tanwyhang](https://github.com/Tanwyhang)
 - **Let’s Connect:** Open to collaborations, project discussions, and knowledge sharing!
