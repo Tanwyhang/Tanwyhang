@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=TL;DR+Wy+Builds+Dreamss)](https://git.io/typing-svg)
+
 # Hi there! I'm Tanwyhang
 
 Welcome to my GitHub profile! I'm passionate about software development, artificial intelligence, academic tools, and sharing knowledge. My repositories reflect a journey through collaborative assignments, innovative projects, and detailed study notes. Here’s a little about me and what you’ll find across my GitHub:
