@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=TL+;+DR+Wy+Builds+Dreams)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=TLDR+Wy+Builds+Dreams)](https://git.io/typing-svg)
 
 # Hi there! I'm Tanwyhang
 
