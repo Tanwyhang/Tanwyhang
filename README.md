@@ -1,11 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=TLDR+Wy+Builds+Dreams)](https://git.io/typing-svg)
 
-# Hi there! I'm Tanwyhang
-
-Welcome to my GitHub profile! I'm passionate about software development, artificial intelligence, academic tools, and sharing knowledge. My repositories reflect a journey through collaborative assignments, innovative projects, and detailed study notes. Here’s a little about me and what you’ll find across my GitHub:
-
----
-
 ## Tech Stack
 - **Main**: T3 Stack, PERN Stack, Hardhat, Solidity, Tensorflow
 - **Interests:** Blockchain, Fullstack development, AI, academic tools, notes sharing, desktop apps, game development, backend systems.
