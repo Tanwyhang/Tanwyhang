@@ -17,7 +17,9 @@ Welcome to my GitHub profile! I'm passionate about software development, artific
 
 ## 🏆 Competitions
 
-- **NAIC** Top10 Malaysian National Finalist (Sunway National AI Challenge 2025)
+-**ETHChiangmai 26** Overall Champion + Future Light Student Prize
+-**NEXTUP Hackathon Tarumt 25** First Runner Up
+- **NAIC** Top10 National Finalist (Sunway National AI Challenge 2025)
 - **Worldquant IQC** Top8 Malaysian National Finalist (International Quant Championship 2025)
 - **Codenection 2024** Open Finalist
 - **MCC 2021** Bronze Award (Malaysian Coding Competition by IOI MY)
