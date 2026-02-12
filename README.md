@@ -8,7 +8,7 @@
 - **Extra Skills:** Adobe Photoshop,Premiere Pro, After Effects, Blender3, TouchDesigner Derivatives
 ---
 
-## 🏆 Competitions
+## 🏆 Awards
 
 - **ETHChiangmai 26** Overall Champion + Future Light Student Prize
 - **NEXTUP Hackathon Tarumt 25** First Runner Up
@@ -17,8 +17,7 @@
 - **Worldquant IQC** Top8 Malaysian National Finalist (International Quant Championship 2025)
 - **Codenection 2024** Open Finalist
 - **MCC 2021** Bronze Award (Malaysian Coding Competition by IOI MY)
-- **Bolt.new Hackathon 2025**
-
+  
 ---
 
 ## Collaboration & Learning
