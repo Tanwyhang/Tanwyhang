@@ -20,19 +20,6 @@
   
 ---
 
-## Collaboration & Learning
-
-- **Team Projects:** Enjoys working with others, sharing knowledge, and building innovative solutions.
-- **Open Source:** Welcomes contributions, feedback, and collaboration.
-- **Continuous Learning:** Always exploring new technologies, best practices, and ways to improve code quality and user experience.
-
----
-
-## Get in Touch
-
-- **GitHub:** [Tanwyhang](https://github.com/Tanwyhang)
-- **Let’s Connect:** Open to collaborations, project discussions, and knowledge sharing!
-
----
-
-Thanks for visiting my profile! Check out my repositories for code, notes, and innovative solutions. Let’s build and learn together! 🚀
+## Links
+[Instagram](https://www.instagram.com/tanwyhang)
+[Twitter/X](https://x.com/Wyhang4)
