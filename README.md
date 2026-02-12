@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm passionate about software development, artific
 
 ---
 
-## About Me
-
-- **Interests:** Fullstack development, AI, academic tools, notes sharing, desktop apps, game development, backend systems.
+## Tech Stack
+- **Main**: T3 Stack, PERN Stack, Hardhat, Solidity, Tensorflow
+- **Interests:** Blockchain, Fullstack development, AI, academic tools, notes sharing, desktop apps, game development, backend systems.
 - **Languages:** Python, TypeScript, Java, SQL, PLpgSQL, CSS, JavaScript, C++ and GDScript.
 - **Stacks:** React Native, NodeJS, FASTAPI, Supabase, Firebase, Mermaid Data Modelling, Pandas, Numpy, Tailwind CSS, n8n Automation Workflow, NodeRED + MQTT, Matplotlib/Seaborn, RAG Pipeline via n8n
 - **Focus:** Practical implementations, learning resources, and collaborative development.
