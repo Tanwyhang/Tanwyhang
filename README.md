@@ -12,7 +12,9 @@
 
 - **ETHChiangmai 26** Overall Champion + Future Light Student Prize
 - **NEXTUP Hackathon Tarumt 25** First Runner Up
-- **WSMB IoT 25** Champion (Prelim)
+- **DEVMatch APU 25** BGA Second Runner Up
+- **WSMB IoT 25** Prelims Champion
+- **Datathon L'Oréal 25** Top 10 National Finalist
 - **NAIC** Top10 National Finalist (Sunway National AI Challenge 2025)
 - **Worldquant IQC** Top8 Malaysian National Finalist (International Quant Championship 2025)
 - **Codenection 2024** Open Finalist
