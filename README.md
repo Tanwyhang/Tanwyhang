@@ -23,5 +23,5 @@
 ---
 
 ## Links
-[Instagram](https://www.instagram.com/tanwyhang)
-[Twitter/X](https://x.com/Wyhang4)
+- [Instagram](https://www.instagram.com/tanwyhang)
+- [Twitter/X](https://x.com/Wyhang4)
