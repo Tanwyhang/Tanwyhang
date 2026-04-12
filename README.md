@@ -10,7 +10,7 @@
 
 ## 🏆 Awards
 
--**Nottshack 26 DCAI** Champion
+- **Nottshack 26 DCAI** Champion
 - **ETHChiangmai 26** Overall Champion + Future Light Student Prize
 - **NEXTUP Hackathon Tarumt 25** First Runner Up
 - **DEVMatch APU 25** BGA Second Runner Up
