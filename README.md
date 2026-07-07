@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,25:0f172a,60:1e293b,100:f59e0b&text=Tan%20Wy%20Hang&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MLE%20x%20GenAI%20x%20DeFi%20Builder&descAlignY=60&descAlign=50" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,25:0f172a,60:1e293b,100:38bdf8&text=Tan%20Wy%20Hang&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MLE%20x%20GenAI%20x%20DeFi%20Builder&descAlignY=60&descAlign=50" alt="header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=980&lines=MLE+%40+TNGD+%7C+GenAI+%40+Feedme+%7C+Research+%40+WorldQuant;LLM%2C+VLM%2C+RAG%2C+and+agentic+systems;eKYC+and+FAS-tech+ML+with+NIST-aligned+evaluation;zkTLS%2C+Reclaim%2C+zkAuth%2C+account+abstraction%2C+and+DeFi+UX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=980&lines=MLE+%40+TNGD+%7C+GenAI+%40+Feedme+%7C+Research+%40+WorldQuant;LLM%2C+VLM%2C+RAG%2C+and+agentic+systems;eKYC+and+FAS-tech+ML+with+NIST-aligned+evaluation;zkTLS%2C+Reclaim%2C+zkAuth%2C+account+abstraction%2C+and+DeFi+UX)](https://git.io/typing-svg)
 
-[![Contributions](https://img.shields.io/badge/contributions-801%20last%2012%20months-f59e0b?style=for-the-badge&labelColor=111827)](https://github.com/Tanwyhang)
+[![Contributions](https://img.shields.io/badge/contributions-801%20last%2012%20months-38bdf8?style=for-the-badge&labelColor=111827)](https://github.com/Tanwyhang)
 
 [![Malaysia](https://img.shields.io/badge/location-Malaysia-111827?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/Tanwyhang)
-[![Focus](https://img.shields.io/badge/focus-GenAI%20%7C%20Quant%20%7C%20DeFi-f59e0b?style=flat-square&logo=openai&logoColor=black)](https://github.com/Tanwyhang)
+[![Focus](https://img.shields.io/badge/focus-GenAI%20%7C%20Quant%20%7C%20DeFi-38bdf8?style=flat-square&logo=openai&logoColor=black)](https://github.com/Tanwyhang)
 [![Systems](https://img.shields.io/badge/systems-LLM%20%7C%20VLM%20%7C%20RAG-0ea5e9?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/Tanwyhang)
 
 </div>
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/n8n%20Automation-ea4b71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Automation" />
   <img src="https://img.shields.io/badge/Node--RED-8f1d1d?style=for-the-badge&logo=nodered&logoColor=white" alt="Node-RED" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
-  <img src="https://img.shields.io/badge/Zero%20Knowledge-f59e0b?style=for-the-badge" alt="Zero Knowledge" />
+  <img src="https://img.shields.io/badge/Zero%20Knowledge-38bdf8?style=for-the-badge" alt="Zero Knowledge" />
   <img src="https://img.shields.io/badge/Account%20Abstraction-0ea5e9?style=for-the-badge&logo=ethereum&logoColor=white" alt="Account Abstraction" />
 </p>
 
@@ -52,40 +52,6 @@
 <p align="center"><img src="https://img.shields.io/badge/WorldQuant%20IQC%202025-Top%208%20Malaysian%20National%20Finalist-111827?style=for-the-badge&labelColor=111827" alt="WorldQuant IQC 2025 Top 8 Malaysian National Finalist" /></p>
 <p align="center"><img src="https://img.shields.io/badge/Codenection%202024-Open%20Finalist-111827?style=for-the-badge&labelColor=111827" alt="Codenection 2024 Open Finalist" /></p>
 <p align="center"><img src="https://img.shields.io/badge/MCC%202021-Bronze%20Award-111827?style=for-the-badge&labelColor=111827" alt="MCC 2021 Bronze Award" /></p>
-
-## Highlights
-
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <a href="https://github.com/Tanwyhang/OrbitUX">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanwyhang&repo=OrbitUX&theme=tokyonight&hide_border=true" alt="OrbitUX" />
-      </a>
-      <br />
-      <strong>Privacy-first stablecoin transfers.</strong>
-      <br />
-      Zero-knowledge payment flows, relayers, and shielded transfers.
-    </td>
-    <td width="33%" valign="top" align="center">
-      <a href="https://github.com/Tanwyhang/Relay-Openclaw">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanwyhang&repo=Relay-Openclaw&theme=tokyonight&hide_border=true" alt="Relay-Openclaw" />
-      </a>
-      <br />
-      <strong>Stack Overflow for AI agents.</strong>
-      <br />
-      Shared knowledge, micropayments, and simulation for agent workflows.
-    </td>
-    <td width="33%" valign="top" align="center">
-      <a href="https://github.com/Tanwyhang/Tesseract-DCAI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanwyhang&repo=Tesseract-DCAI&theme=tokyonight&hide_border=true" alt="Tesseract-DCAI" />
-      </a>
-      <br />
-      <strong>Tap trading on DCAI.</strong>
-      <br />
-      Smart-wallet sessions, batched execution, and onchain settlement.
-    </td>
-  </tr>
-</table>
 
 ## What I Work On
 
@@ -107,7 +73,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwyhang&bg_color=0d1117&color=e2e8f0&line=f59e0b&point=38bdf8&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwyhang&bg_color=0d1117&color=e2e8f0&line=38bdf8&point=60a5fa&area=true&hide_border=true" alt="activity graph" />
 </div>
 
 <div align="center">
@@ -132,4 +98,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,25:0f172a,60:1e293b,100:f59e0b" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,25:0f172a,60:1e293b,100:38bdf8" alt="footer" />
