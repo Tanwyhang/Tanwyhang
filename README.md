@@ -16,6 +16,14 @@
   MLE @ TNGD | GenAI @ Feedme | Research @ WorldQuant | Cofounder @ WorkfloAI | ex-Cofounder @ Aero | DeFi Builder
 </p>
 
+## What I Work On
+
+- **AI / ML:** eKYC and FAS-tech ML, NIST-aligned evaluation, model optimization, inference, packaging, and deployment.
+- **GenAI:** LLM, VLM, RAG, and agentic systems with client vertical integrations.
+- **Research:** quant workflows, statistical validation, backtesting, and signal-driven experimentation.
+- **Backend / Product:** FastAPI, PostgreSQL, Supabase, automation systems, dashboards, and full-stack delivery.
+- **Blockchain:** zkTLS, Reclaim, zkAuth, Solidity, account abstraction, privacy flows, and DeFi product UX.
+
 ## Tech
 
 <div align="center">
@@ -52,14 +60,6 @@
 <p align="center"><img src="https://img.shields.io/badge/WorldQuant%20IQC%202025-Top%208%20Malaysian%20National%20Finalist-111827?style=for-the-badge&labelColor=111827" alt="WorldQuant IQC 2025 Top 8 Malaysian National Finalist" /></p>
 <p align="center"><img src="https://img.shields.io/badge/Codenection%202024-Open%20Finalist-111827?style=for-the-badge&labelColor=111827" alt="Codenection 2024 Open Finalist" /></p>
 <p align="center"><img src="https://img.shields.io/badge/MCC%202021-Bronze%20Award-111827?style=for-the-badge&labelColor=111827" alt="MCC 2021 Bronze Award" /></p>
-
-## What I Work On
-
-- **AI / ML:** eKYC and FAS-tech ML, NIST-aligned evaluation, model optimization, inference, packaging, and deployment.
-- **GenAI:** LLM, VLM, RAG, and agentic systems with client vertical integrations.
-- **Research:** quant workflows, statistical validation, backtesting, and signal-driven experimentation.
-- **Backend / Product:** FastAPI, PostgreSQL, Supabase, automation systems, dashboards, and full-stack delivery.
-- **Blockchain:** zkTLS, Reclaim, zkAuth, Solidity, account abstraction, privacy flows, and DeFi product UX.
 
 ## GitHub
 
