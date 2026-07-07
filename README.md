@@ -76,10 +76,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwyhang&bg_color=0d1117&color=e2e8f0&line=2563eb&point=1d4ed8&area=true&hide_border=true" alt="activity graph" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Tanwyhang&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1" alt="trophies" />
-</div>
-
 ## Current Focus
 
 - eKYC and FAS-tech ML with strong evaluation and deployment discipline.
