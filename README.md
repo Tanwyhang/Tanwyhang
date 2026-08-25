@@ -60,7 +60,6 @@
 <p align="center"><img src="https://img.shields.io/badge/WorldQuant%20IQC%202025-Top%208%20Malaysian%20National%20Finalist-111827?style=for-the-badge&labelColor=111827" alt="WorldQuant IQC 2025 Top 8 Malaysian National Finalist" /></p>
 <p align="center"><img src="https://img.shields.io/badge/Codenection%202024-Open%20Finalist-111827?style=for-the-badge&labelColor=111827" alt="Codenection 2024 Open Finalist" /></p>
 <p align="center"><img src="https://img.shields.io/badge/MCC%202021-Bronze%20Award-111827?style=for-the-badge&labelColor=111827" alt="MCC 2021 Bronze Award" /></p>
-&bg_color=0d1117&color=e2e8f0&line=2563eb&point=1d4ed8&area=true&hide_border=true" alt="activity graph" />
 </div>
 
 ## Current Focus
