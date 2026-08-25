@@ -60,20 +60,7 @@
 <p align="center"><img src="https://img.shields.io/badge/WorldQuant%20IQC%202025-Top%208%20Malaysian%20National%20Finalist-111827?style=for-the-badge&labelColor=111827" alt="WorldQuant IQC 2025 Top 8 Malaysian National Finalist" /></p>
 <p align="center"><img src="https://img.shields.io/badge/Codenection%202024-Open%20Finalist-111827?style=for-the-badge&labelColor=111827" alt="Codenection 2024 Open Finalist" /></p>
 <p align="center"><img src="https://img.shields.io/badge/MCC%202021-Bronze%20Award-111827?style=for-the-badge&labelColor=111827" alt="MCC 2021 Bronze Award" /></p>
-
-## GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanwyhang&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanwyhang&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Tanwyhang&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwyhang&bg_color=0d1117&color=e2e8f0&line=2563eb&point=1d4ed8&area=true&hide_border=true" alt="activity graph" />
+&bg_color=0d1117&color=e2e8f0&line=2563eb&point=1d4ed8&area=true&hide_border=true" alt="activity graph" />
 </div>
 
 ## Current Focus
